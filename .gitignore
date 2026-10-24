@@ -5,3 +5,6 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .venv/
+data/aqi.csv
+data/city_hour.csv
+data/station_hour.csv
