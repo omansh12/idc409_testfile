@@ -1,13 +1,13 @@
-name: IDC409
+name: dsai
 channels:
   - defaults
 dependencies:
-  - python=3.14
-  - matplotlib
+  - python=3.14.8
   - scikit-learn
-  - notebook
-  - ipykernel
-  - numpy
-  - jupyter
   - pandas
-prefix: /home/omaaaaaaansh/miniconda3/envs/IDC409
+  - ipykernel
+  - jupyter
+  - numpy
+  - notebook
+  - matplotlib
+prefix: /home/omansh/miniconda3/envs/dsai
